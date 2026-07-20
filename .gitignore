@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Project materials and generated deliverables
+deliverables/
+source-materials/
+*.log

@@ -1,0 +1,4 @@
+interface:
+  display_name: "B2B应标编写"
+  short_description: "按公司规则与历史模板编写并保真交付专业投标响应文件任务"
+  default_prompt: "Use $bid-authoring to draft this response from the approved tender matrix and template."

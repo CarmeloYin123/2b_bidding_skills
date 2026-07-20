@@ -1,0 +1,4 @@
+interface:
+  display_name: "B2B拆标分析"
+  short_description: "依据招标文件拆解资格、评分、风险和递交要求并生成应答矩阵任务"
+  default_prompt: "Use $bid-tender-analysis to decompose this tender into a requirement-response matrix."

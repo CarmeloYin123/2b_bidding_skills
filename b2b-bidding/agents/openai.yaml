@@ -1,0 +1,4 @@
+interface:
+  display_name: "B2B 招投标总控"
+  short_description: "统一项目阶段、工作包、路由与关键投标关口的总控任务"
+  default_prompt: "Use $b2b-bidding to identify the bid phase and coordinate the required workflows."

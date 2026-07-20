@@ -1,0 +1,4 @@
+interface:
+  display_name: "B2B投标递交管控"
+  short_description: "控制报价审批、用印、封装递交和归档的关键项目关口任务"
+  default_prompt: "Use $bid-submission-control to determine whether this bid can be frozen and submitted."

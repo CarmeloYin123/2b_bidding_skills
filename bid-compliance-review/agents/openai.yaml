@@ -1,0 +1,4 @@
+interface:
+  display_name: "B2B标书规范审查"
+  short_description: "逐页审查投标文件内容、格式、附件和跨章节一致性风险问题"
+  default_prompt: "Use $bid-compliance-review to assess this bid document for compliance risks."

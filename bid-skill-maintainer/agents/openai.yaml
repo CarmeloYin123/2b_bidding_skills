@@ -1,0 +1,4 @@
+interface:
+  display_name: "B2B招投标技能复盘"
+  short_description: "基于授权历史会话和反馈复盘迭代招投标技能体系与检查规则"
+  default_prompt: "Use $bid-skill-maintainer to review evidence from recent bidding sessions and improve the skill suite."
