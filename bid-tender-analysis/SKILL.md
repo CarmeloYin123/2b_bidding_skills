@@ -5,7 +5,7 @@ description: B2B 招标、采购、询比文件与补遗拆解。用于提取资
 
 # B2B拆标分析
 
-专门处理“拆标”任务；不代写完整标书。先读取共享资料 `../b2b-bidding/references/tender-analysis.md`、`company-process.md` 和 `project-pack.md`，并更新同一项目工作包。
+专门处理“拆标”任务；不代写完整标书。先读取共享资料 [招标文件拆解](../b2b-bidding/references/tender-analysis.md)、[公司流程与红线](../b2b-bidding/references/company-process.md) 和 [项目工作包](../b2b-bidding/references/project-pack.md)，并更新同一项目工作包。
 
 完整阅读招标/采购文件、补遗、答疑、平台规则和格式附件；逐页、逐附件、逐表格检查。不要只依赖目录、摘要或 OCR 文本。
 
@@ -13,4 +13,4 @@ description: B2B 招标、采购、询比文件与补遗拆解。用于提取资
 
 同时交付硬门槛表、评分策略表、红线与澄清表、关键时间倒排计划和 Go/No-Go 建议。每项写明结论、证据、责任人、内部截止和状态；不能证实满足时写“待确认/部分满足/不能满足”。
 
-将 P0/P1 项回填或创建 `requirements-matrix.md`，作为编标和审查的唯一需求基线。发现资格、知识产权/源码、合同、报价、技术可交付性或递交风险时，明确升级对象和最晚决策时间。
+将 P0/P1 项回填或创建 `requirements-matrix.md`，作为编标和审查的唯一需求基线。技术条款还须预留“拟写章节、可用资料/图片定位、满足状态、Word 批注编号”字段，供 `$bid-authoring` 从白皮书、PPT/PPTX、XLSX 等材料形成可追溯响应；资料相关不等于已满足。发现资格、知识产权/源码、合同、报价、技术可交付性或递交风险时，明确升级对象和最晚决策时间。
