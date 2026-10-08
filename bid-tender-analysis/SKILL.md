@@ -5,7 +5,7 @@ description: B2B 招标、采购、询比文件与补遗拆解。用于提取资
 
 # B2B拆标分析
 
-专门处理“拆标”任务；不代写完整标书。先读取共享资料 `../b2b-bidding/references/tender-analysis.md`、`company-process.md` 和 `project-pack.md`，并更新同一项目工作包。
+专门处理“拆标”任务；不代写完整标书。先读取共享资料 [招标文件拆解](../b2b-bidding/references/tender-analysis.md)、[公司流程与红线](../b2b-bidding/references/company-process.md) 和 [项目工作包](../b2b-bidding/references/project-pack.md)，并更新同一项目工作包。
 
 完整阅读招标/采购文件、补遗、答疑、平台规则和格式附件；逐页、逐附件、逐表格检查。不要只依赖目录、摘要或 OCR 文本。
 

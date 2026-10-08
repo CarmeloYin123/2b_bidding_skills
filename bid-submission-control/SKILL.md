@@ -5,7 +5,7 @@ description: B2B 投标递交与归档关口控制。用于核对报价审批、
 
 # B2B投标递交管控
 
-专门处理报价审批至归档阶段。先读取共享资料 `../b2b-bidding/references/company-process.md`、`delivery-qa.md`、`project-pack.md`，以及本项目的需求矩阵、审查报告、报价/合同/审批证据。
+专门处理报价审批至归档阶段。先读取共享资料 [公司流程与红线](../b2b-bidding/references/company-process.md)、[交付前质量门](../b2b-bidding/references/delivery-qa.md)、[项目工作包](../b2b-bidding/references/project-pack.md)，以及本项目的需求矩阵、审查报告、报价/合同/审批证据。
 
 逐项核对：销售确认、产品/技术确认、报价逻辑与当前授权链、交叉审核留痕、最终版本冻结、用印/电子签章、签章版本一致性、文件名、正副本/分册、密封、份数、CA/加密、文件大小、平台上传/解密和截止时间。
 
